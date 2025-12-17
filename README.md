@@ -1,1 +1,0 @@
-# A.-Minimal-Square
